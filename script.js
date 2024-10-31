@@ -1,6 +1,6 @@
 function showMessage() {
   const messageElement = document.getElementById("message");
-  messageElement.textContent = "Wishing you joy, success, and endless blessings this year!";
+  messageElement.textContent = "Semoga semua apa yang kamu semogakan bisa tercapai, dan semangat menjalani hari harinya ya jangan sedih teruss. Semangatt ada aku kok <3";
   messageElement.style.opacity = 1;
   launchConfetti();
 }
